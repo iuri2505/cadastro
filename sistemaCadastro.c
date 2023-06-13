@@ -515,7 +515,7 @@ void menu() {
                         break;
 
                     case 3:
-                        atualizar(NOT1A);
+                        atualizar(NOTA);
                         break;
 
                     default:
